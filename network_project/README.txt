@@ -26,6 +26,5 @@
 - 5000: базовый TCP
 - 5001: многопоточный TCP
 - 5002: UDP
-- 5003: selectors
-
-Шифрование с Diffie-Hellman и cryptography в эту версию не включено.
+- 5003: selectors 
+-
